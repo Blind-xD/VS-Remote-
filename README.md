@@ -13,6 +13,8 @@ python app.py
 
 Pak otevři: http://localhost:8000
 
+Health check: http://localhost:8000/health
+
 ## 2) Spuštění v Dockeru
 
 ```bash
