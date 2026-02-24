@@ -1,0 +1,6 @@
+services:
+  app:
+    build: .
+    container_name: hello-python-docker-compose
+    ports:
+      - "8000:8000"
