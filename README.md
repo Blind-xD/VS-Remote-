@@ -43,3 +43,17 @@ Zastavení:
 ```bash
 docker compose down
 ```
+
+## 5) Jak pokračovat po každé změně
+
+```bash
+git add .
+git commit -m "Popis zmeny"
+git push
+```
+
+Rychlá kontrola stavu:
+
+```bash
+git status
+```
